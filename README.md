@@ -11,6 +11,6 @@ Lo que uso a diario
 
 Proyecto destacado  LOKI-Agent-IA- — agente de IA para WhatsApp con CRM integrado, conectado a N8N y modelos de lenguaje (Claude/Gemini/GPT), personalizable por cliente.
 
-Sobre mí: Fundador de Andino Digital Work, agencia de desarrollo web y automatización con clientes activos. Autodidacta, con formación en IA Generativa (EOI, 250h) y Desarrollo Web (FreeCodeCamp).
+Sobre mí: Fundador de Andino Digital Work, agencia de desarrollo web y automatización con clientes activos. Autodidacta, con formación en IA Generativa (EOI, 250h) y Desarrollo Web.
 
  Conecta conmigo: LinkedIn
