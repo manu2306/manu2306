@@ -1,21 +1,27 @@
 ### Hola, soy Manuel
 
-Developer AI & Automatización (Junior) — construyo agentes de IA, automatizaciones y soluciones web para negocios reales, y voy metiendo las manos en proyectos propios de datos y Machine Learning para seguir aprendiendo.
+Developer junior de IA y automatización. Construyo agentes de IA, automatizaciones y soluciones web para negocios reales, y estoy ampliando mi formación en datos y machine learning con el Máster en Data Science & IA de Evolve.
 
-**Lo que uso a diario**
-- IA aplicada: OpenAI API, Claude, Prompt Engineering, desarrollo de agentes conversacionales
+**Lo que uso**
+- IA aplicada: OpenAI API, Claude, Gemini, Prompt Engineering, agentes conversacionales
 - Automatización: n8n, Webhooks, integración de APIs (Meta, Google, WhatsApp)
-- Desarrollo: JavaScript, Python, HTML5/CSS3, FastAPI
-- Datos y ML (aprendiendo con proyectos propios): pandas, EDA, scikit-learn, fine-tuning básico de modelos con Hugging Face
+- Desarrollo: Python, JavaScript, Java (básico), HTML5/CSS3, FastAPI
+- Datos y ML: pandas, Jupyter, SQL y PostgreSQL, scikit-learn, fine-tuning de modelos con Hugging Face
+- Herramientas: Git, Docker, VS Code
 
 **Proyectos destacados**
-- [LOKI-Agent-IA-](https://github.com/manu2306/LOKI-Agent-IA-) — agente de IA para WhatsApp con CRM integrado, conectado a N8N y modelos de lenguaje (Claude/Gemini/GPT), personalizable por cliente.
-- [portfolio-chispa-ia](https://github.com/manu2306/portfolio-chispa-ia) — chatbot con fine-tuning de un modelo de lenguaje y un clasificador de imágenes (CNN entrenada desde cero), integrados en una app web.
-- [portfolio-reporte-inteligente-ia](https://github.com/manu2306/portfolio-reporte-inteligente-ia) — pipeline que limpia datos, genera un informe ejecutivo con IA y lo envía por email, automatizado con n8n.
+- [LOKI-Agent-IA-](https://github.com/manu2306/LOKI-Agent-IA-) — agente de IA para WhatsApp con CRM integrado, conectado a n8n y a modelos de lenguaje (Claude, Gemini, GPT). En uso real con clientes.
+- [portfolio-chispa-ia](https://github.com/manu2306/portfolio-chispa-ia) — chatbot con fine-tuning de un modelo de lenguaje y clasificador de imágenes con una red neuronal convolucional entrenada desde cero, integrados en una app web con FastAPI.
+- [portfolio-reporte-inteligente-ia](https://github.com/manu2306/portfolio-reporte-inteligente-ia) — pipeline que limpia datos de e-commerce, genera un informe ejecutivo con IA y lo envía por email, orquestado con n8n.
+- [portfolio-eda-supplychain](https://github.com/manu2306/portfolio-eda-supplychain) — análisis exploratorio de más de 180.000 pedidos de una cadena de suministro, con conclusiones de negocio.
 
-Los demás proyectos de análisis de datos y ML los vas encontrando fijados en mi perfil.
+**Formación**
+- Máster en Data Science & IA — Evolve (en curso)
+- Especialista en IA Generativa y Vibe Coding (250 h) — EOI
+- Diseño Web y Programación — FreeCodeCamp
 
 **Sobre mí**
-Fundador de Andino Digital Work, agencia de desarrollo web y automatización con clientes activos. Autodidacta, con formación en IA Generativa (EOI, 250h) y Desarrollo Web.
+
+Fundador de Andino Digital Work, donde desarrollo webs y soluciones de IA para clientes. Me gusta aprender construyendo y documentar todo lo que hago.
 
 Conecta conmigo: [LinkedIn](https://www.linkedin.com/in/manuel-corzo-8485953b1)
